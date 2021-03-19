@@ -104,7 +104,7 @@ curl -s localhost:9090/wallet \
         "params": {
           "entropy": "c593274dc6f6eb94242e34ae5f0ab16bc3085d45d49d9e18b8a8c6f057e6b56b",
           "name": "Bob"
-          "first_block_index": 3500,
+          "first_block_index": "3500"
         },
         "jsonrpc": "2.0",
         "id": 1
